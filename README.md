@@ -63,3 +63,10 @@ The tool improves:
 # Vision
 
 BlenderReviewPlayer is built to simplify production review workflows and provide studios with a flexible, scalable, and artist-friendly review solution that integrates easily into modern animation and VFX pipelines.
+
+
+# Future Vision
+
+In future development, BlenderReviewPlayer is planned to be fully integrated inside Blender as a native review and comparison system. This implementation will provide artists and supervisors with a seamless workflow directly within the production environment.
+
+The long-term vision is to connect BlenderReviewPlayer with the RNA&DNA Production Tracking System, enabling real-time interaction between production tracking, review workflows, and creative departments.
